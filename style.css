@@ -15,5 +15,32 @@ p{
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+a{
+    color: orange;
+    text-align: center;
+}
+.card-footer{
+    background-color: white;
+    text-align: center;
     
 }
+.price{
+    text-align: center;
+    font-size: large;
+    color: black;
+}
+.card-title{
+    text-align: center;
+    color: black;
+}
+footer{
+    text-align:center;
+}
+.border-png1{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px orange;
+    margin: 30px;
+}
+
