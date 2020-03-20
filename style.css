@@ -1,0 +1,19 @@
+
+.container{
+    margin-bottom: 100px;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: grey;
+}
+.buy-now-btn{
+    background-image: linear-gradient(to bottom,rgb(2, 2, 2) 0%,rgb(14, 8, 10) 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    
+}
